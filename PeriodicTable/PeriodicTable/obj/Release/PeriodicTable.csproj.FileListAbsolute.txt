@@ -1,0 +1,12 @@
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\bin\Release\PeriodicTable.exe.config
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\bin\Release\PeriodicTable.exe
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\bin\Release\PeriodicTable.pdb
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.csproj.AssemblyReference.cache
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.csproj.SuggestedBindingRedirects.cache
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.MainForm.resources
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.Instructions.resources
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.Properties.Resources.resources
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.csproj.GenerateResource.cache
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.exe
+D:\Old  Coding\C#\Programs\Finished\PeriodicTable\PeriodicTable\obj\Release\PeriodicTable.pdb
